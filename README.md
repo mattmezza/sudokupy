@@ -14,11 +14,11 @@ the second parameter is the type of solver chosen, you can choose among:
 - **nakedtriple**: a faster-super-dupy-fast version using (in addition to the above mentioned techniques) the naked triple method.
 
 ### TODOs
-<input type="checkbox" /> improve command line interface
-<input type="checkbox" /> write some info and documentation with regards to the techniques used
-<input type="checkbox" /> packetize the software in a python module to easily install & import
-<input type="checkbox" /> using multiple thread at sudoku list level and at sudoku level
-<input type="checkbox" /> find the hardest sudoku ever!!!
+- [ ] improve command line interface
+- [ ] write some info and documentation with regards to the techniques used
+- [ ] packetize the software in a python module to easily install & import
+- [ ] using multiple thread at sudoku list level and at sudoku level
+- [ ] find the hardest sudoku ever!!!
 
 
 The repo comes with a `some_sudokus.txt` database of more than 10k sudokus I have taken from the web and around (also on newspaper).
